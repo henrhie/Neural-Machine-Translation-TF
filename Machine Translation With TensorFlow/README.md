@@ -1,5 +1,6 @@
 # Neural Machine Translation TF
 
+Click on the badge to open code notebook on Google colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SuXGz17r9JrQVcE55E2PvWT8Ek3YGDAz)
 This is the repo associated with the Neural Machine Translation with TensorFlow blog on Paperspace. Checkpoint out the tutorial on Paperspace to learn more.
 
